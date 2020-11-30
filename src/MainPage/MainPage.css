@@ -1,0 +1,89 @@
+.web-container{
+    position: relative;
+    width: 100vw;
+    min-width: 1400px;
+    height: auto;
+    min-height: 700px;
+}
+
+.mainpart{
+    position: relative;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    background-color: rgba(126, 133, 123, 0.7) !important;
+}
+
+.sizeDecide{
+    position: relative;
+    width:100%;
+    height: 90px;
+}
+
+#selection{
+    position: absolute;
+    width: 20%;
+    height: auto;
+    left: 5%;
+    top: 30%;
+}
+
+#texts{
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    left: 30%;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.controller{
+    margin-left: 3%;
+    height: auto;
+
+}
+
+.cheese{
+    margin-top: 5px;
+    height: 30px;
+    border-radius: 6px;
+    transform: translateY(-15px);
+}
+
+.pickrow{
+}
+
+.pickrow:hover{
+    cursor: pointer;
+    background-color: #454848;
+}
+
+#button{
+    margin-left: 3%;
+    margin-top: 10px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+
+.buttons{
+    display: inline;
+    margin-right: 3%;
+    background-color: #33BCC1;
+    border: none;
+}
+
+.buttons:hover{
+    cursor: pointer;
+    color: aqua;
+}
+
+#mainboard{
+    margin: 20px auto 30px auto;
+    width: 700px;
+    border: solid black 2px;
+}
+
+#mainboard2{
+    width: 100%;
+}
