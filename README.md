@@ -10,5 +10,6 @@ if not work, run the npm i first.
 ### `link`
 
 I use firebase to deploy the web
+Here is website: https://cisc481-pr2.web.app/
 
 
